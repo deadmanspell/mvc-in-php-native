@@ -1,0 +1,20 @@
+.card-link{
+    text-decoration: none;
+    color: black;
+}
+.card-link:hover{
+    text-decoration: none;
+    color: rgb(126, 126, 126);
+}
+
+.social-list{
+    list-style: none;
+}
+
+.social-list__link{
+    color: white;
+}
+
+.social-list__link:hover{
+    color: rgb(201, 201, 201);
+}
